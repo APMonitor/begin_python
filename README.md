@@ -6,6 +6,6 @@ Simplified Version of the TCLab. No background knowledge needed. These lessons t
 
 [More on Temperture Control Kit](https://github.com/APMonitor/arduino/blob/master/README.md)
 
-[Original](https://github.com/APMonitor/arduino)
+[Original Programs](https://github.com/APMonitor/arduino)
 
 [College Course](https://github.com/APMonitor/learn_python)
