@@ -1,4 +1,4 @@
-# High School TCLab
+# Beginners TCLab
 ### Simplified Version of the TCLab. No background knowledge needed. These lessons teach you python interactively from beginners level using the [Temperture Control Kit](http://apmonitor.com/pdc/index.php/Main/ArduinoTemperatureControl).
 
 
