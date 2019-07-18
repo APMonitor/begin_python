@@ -9,3 +9,5 @@
 [Original Programs](https://github.com/APMonitor/arduino)
 
 [College Course](https://github.com/APMonitor/learn_python)
+
+[Download Anaconda to use Jupyter](https://docs.anaconda.com/anaconda/install/)
