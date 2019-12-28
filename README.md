@@ -13,8 +13,8 @@
 
 ### We would love to hear any feedback or problems you would like to send us! We have a teachers guide, and if you are getting stuck, or helping anyone to learn with this course, email us and we can send you the file. We are always trying to improve this course and your experience learning python interactively, so send us an email: _eric@apmonitor.com_ or _john@apmonitor.com_
 
-## [Download Anaconda to use Jupyter](https://docs.anaconda.com/anaconda/install/) or [watch a video on how to do it](https://youtu.be/LrMOrMb8-3s).
-### (Please use the two links above if you want to use the downloaded files from this github, but don't have Jupyter yet.)
+## [Download Anaconda to use Jupyter](https://docs.anaconda.com/anaconda/install/) or [watch a video on how to install Anaconda](https://youtu.be/LrMOrMb8-3s).
+### (Please use the two links above if you want to use the downloaded files from Github, but don't have Jupyter Notebook yet.)
 
 [About Temperature Control Kit](http://apmonitor.com/pdc/index.php/Main/ArduinoTemperatureControl)
 
@@ -25,3 +25,5 @@
 [College Course](https://github.com/APMonitor/learn_python)
 
 [About Jupyter](https://jupyter.org/)
+
+The older course repository, represented from [APMonitor](https://github.com/APMonitor/begin_python), is the stable version of this course. For the latest development version of the course, use the repository [BeginnersTCLab](https://github.com/BaconBomber/BeginnersTCLab).
