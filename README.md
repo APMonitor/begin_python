@@ -10,18 +10,18 @@ To make the problem more concrete, suppose that you are designing a chicken egg 
 
 There are 12 lessons to help you with the objective of designing the temperature control for the incubator.
 
-1. [Overview)[https://github.com/APMonitor/begin_python/blob/master/01.%20Overview.ipynb]
-2. [Debugging)[https://github.com/APMonitor/begin_python/blob/master/02.%20Debugging.ipynb]
-3. [Variables)[https://github.com/APMonitor/begin_python/blob/master/03.%20Variables.ipynb]
-4. [Printing)[https://github.com/APMonitor/begin_python/blob/master/04.%20Printing.ipynb]
-5. [Classes and Objects)[https://github.com/APMonitor/begin_python/blob/master/05.%20Classes%20and%20Objects.ipynb]
-6. [Functions)[https://github.com/APMonitor/begin_python/blob/master/06.%20Functions.ipynb]
-7. [Loops)[https://github.com/APMonitor/begin_python/blob/master/07.%20Loops.ipynb]
-8. [Input)[https://github.com/APMonitor/begin_python/blob/master/08.%20Input.ipynb]
-9. [If Statements)[https://github.com/APMonitor/begin_python/blob/master/09.%20If%20Statements.ipynb]
-10. [Lists and Tuples)[https://github.com/APMonitor/begin_python/blob/master/10.%20Lists%20and%20Tuples.ipynb]
-11. [Dictionaries)[https://github.com/APMonitor/begin_python/blob/master/11.%20Dictionaries.ipynb]
-12. [Plotting)[https://github.com/APMonitor/begin_python/blob/master/12.%20Plotting.ipynb]
+1. [Overview](https://github.com/APMonitor/begin_python/blob/master/01.%20Overview.ipynb)
+2. [Debugging](https://github.com/APMonitor/begin_python/blob/master/02.%20Debugging.ipynb)
+3. [Variables](https://github.com/APMonitor/begin_python/blob/master/03.%20Variables.ipynb)
+4. [Printing](https://github.com/APMonitor/begin_python/blob/master/04.%20Printing.ipynb)
+5. [Classes and Objects](https://github.com/APMonitor/begin_python/blob/master/05.%20Classes%20and%20Objects.ipynb)
+6. [Functions](https://github.com/APMonitor/begin_python/blob/master/06.%20Functions.ipynb)
+7. [Loops](https://github.com/APMonitor/begin_python/blob/master/07.%20Loops.ipynb)
+8. [Input](https://github.com/APMonitor/begin_python/blob/master/08.%20Input.ipynb)
+9. [If Statements](https://github.com/APMonitor/begin_python/blob/master/09.%20If%20Statements.ipynb)
+10. [Lists and Tuples](https://github.com/APMonitor/begin_python/blob/master/10.%20Lists%20and%20Tuples.ipynb)
+11. [Dictionaries](https://github.com/APMonitor/begin_python/blob/master/11.%20Dictionaries.ipynb)
+12. [Plotting](https://github.com/APMonitor/begin_python/blob/master/12.%20Plotting.ipynb)
 
 **Get TCLab**
 
