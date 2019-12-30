@@ -1,29 +1,48 @@
-# Beginners TCLab
+### Begin Python with the TCLab
 
-## [Instructional Videos](https://www.youtube.com/channel/UCqwDe9U5zkA05x9pZZB72BA)
-### Instructional Videos will be coming soon, for activity explanations, as well as lesson walkthroughs.
+One of the best ways to start or review a programming language is to work on a simple project. These exercises are designed to teach basic Python programming skills to help you design a temperature controller. Temperature control is found in many applications such as home or office HVAC, manufacturing processes, transportation, and life sciences. Even our bodies regulate temperature to a specific set point. This project is to regulate the temperature of the TCLab. Each TCLab has thermochromic paint that turns from black to purple when the temperature reaches the target temperature of 37°C (99°F).
 
-### You can download the zip file to the course, [here](https://github.com/BaconBomber/BeginnersTCLab/archive/master.zip).
+**Objective**: Program the TCLab to maintain the temperature at 37°C. Display the heater level with an LED indicator as the program is adjusting the temperature. Create a plot of the temperature and heater values over a 10 minute evaluation period.
 
+To make the problem more concrete, suppose that you are designing a chicken egg incubator. Temperature, humidity, and egg rotation are all important to help the chicks develop. For this exercise, you will only focus on temperature control by adjusting the heater.
 
+**Topics**
 
-### Simplified Version of the TCLab, no background knowledge is needed. These lessons teach you python interactively from beginners level using the [Temperature Control Kit](http://apmonitor.com/pdc/index.php/Main/ArduinoTemperatureControl). Purchase is available at that link.
+There are 12 lessons to help you with the objective of designing the temperature control for the incubator.
 
-## Contact Us
+1. [Overview)[https://github.com/APMonitor/begin_python/blob/master/01.%20Overview.ipynb]
+2. [Debugging)[https://github.com/APMonitor/begin_python/blob/master/02.%20Debugging.ipynb]
+3. [Variables)[https://github.com/APMonitor/begin_python/blob/master/03.%20Variables.ipynb]
+4. [Printing)[https://github.com/APMonitor/begin_python/blob/master/04.%20Printing.ipynb]
+5. [Classes and Objects)[https://github.com/APMonitor/begin_python/blob/master/05.%20Classes%20and%20Objects.ipynb]
+6. [Functions)[https://github.com/APMonitor/begin_python/blob/master/06.%20Functions.ipynb]
+7. [Loops)[https://github.com/APMonitor/begin_python/blob/master/07.%20Loops.ipynb]
+8. [Input)[https://github.com/APMonitor/begin_python/blob/master/08.%20Input.ipynb]
+9. [If Statements)[https://github.com/APMonitor/begin_python/blob/master/09.%20If%20Statements.ipynb]
+10. [Lists and Tuples)[https://github.com/APMonitor/begin_python/blob/master/10.%20Lists%20and%20Tuples.ipynb]
+11. [Dictionaries)[https://github.com/APMonitor/begin_python/blob/master/11.%20Dictionaries.ipynb]
+12. [Plotting)[https://github.com/APMonitor/begin_python/blob/master/12.%20Plotting.ipynb]
 
-### We would love to hear any feedback or problems you would like to send us! We have a teachers guide, and if you are getting stuck, or helping anyone to learn with this course, email us and we can send you the file. We are always trying to improve this course and your experience learning python interactively, so send us an email: _eric@apmonitor.com_ or _john@apmonitor.com_
+**Get TCLab**
 
-## [Download Anaconda to use Jupyter](https://docs.anaconda.com/anaconda/install/) or [watch a video on how to install Anaconda](https://youtu.be/LrMOrMb8-3s).
-### (Please use the two links above if you want to use the downloaded files from Github, but don't have Jupyter Notebook yet.)
+You will need a [TCLab kit](https://apmonitor.com/heat.htm) to complete the exercises and they are available for [purchase on Amazon](https://www.amazon.com/TCLab-Temperature-Control-Lab/dp/B07GMFWMRY). 
 
-[About Temperature Control Kit](http://apmonitor.com/pdc/index.php/Main/ArduinoTemperatureControl)
+![Temperature Control Lab](http://apmonitor.com/pdc/uploads/Main/tclab_front.jpg "TCLab")
 
-[More on Temperature Control Kit](https://github.com/APMonitor/arduino/blob/master/README.md)
+**Install Python**
 
-[Original Programs](https://github.com/APMonitor/arduino)
+The first step is to [download and install Anaconda to use Jupyter](https://docs.anaconda.com/anaconda/install/) or [watch a video on how to install Anaconda](https://youtu.be/LrMOrMb8-3s).
 
-[College Course](https://github.com/APMonitor/learn_python)
+[![Install Anaconda](http://img.youtube.com/vi/LrMOrMb8-3s/0.jpg)](https://www.youtube.com/watch?v=LrMOrMb8-3s "Install Anaconda")
 
-[About Jupyter](https://jupyter.org/)
+There are additional instructions on how to [install Python and manage modules](https://apmonitor.com/pdc/index.php/Main/InstallPython).
 
-The older course repository, represented from [APMonitor](https://github.com/APMonitor/begin_python), is the stable version of this course. For the latest development version of the course, use the repository [BeginnersTCLab](https://github.com/BaconBomber/BeginnersTCLab).
+**Support**
+
+We would love to hear any feedback or problems you would like to send us! We are always trying to improve this course and would like to hear about your experience. We can be contacted at _eric@apmonitor.com_ or _john@apmonitor.com_.
+
+**Additional Resources**
+
+- [Temperature Control Lab (TCLab) Kit](http://apmonitor.com/pdc/index.php/Main/ArduinoTemperatureControl)
+- [Engineering Programming Course](https://apmonitor.com/pdc) with [Source Code](https://github.com/APMonitor/learn_python)
+- [Jupyter as interactive environment for Python, Julia, R](https://jupyter.org/)
