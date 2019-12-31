@@ -1,6 +1,8 @@
 ### Begin Python with the TCLab
 
-One of the best ways to start or review a programming language is to work on a simple project. These exercises are designed to teach basic Python programming skills to help you design a temperature controller. Temperature control is found in many applications such as home or office HVAC, manufacturing processes, transportation, and life sciences. Even our bodies regulate temperature to a specific set point. This project is to regulate the temperature of the TCLab. Each TCLab has thermochromic paint that turns from black to purple when the temperature reaches the target temperature of 37°C (99°F).
+Welcome to this introductory course on Python! This course is intended to help you start programming in Python from little or no prior experience. There are video tutorials for each exercise if you have questions along the way. One of the unique things about this course is that you work on basic elements to help you with a temperature control project. You will see your Python code have a real effect by adjusting heaters to maintain a target temperature, just like a thermostat in a home or office.
+
+One of the best ways to start or review a programming language is to work on a simple project. These exercises are designed to teach basic Python programming skills to help you design a temperature controller. Temperature control is found in many applications such as home or office HVAC, manufacturing processes, transportation, and life sciences. Even our bodies regulate temperature to a specific set point. This project is to regulate the temperature of the TCLab. Each TCLab has thermochromic (changes color with temperature) paint that turns from black to purple when the temperature reaches the target temperature of 37°C (99°F).
 
 **Objective**: Program the TCLab to maintain the temperature at 37°C. Display the heater level with an LED indicator as the program is adjusting the temperature. Create a plot of the temperature and heater values over a 10 minute evaluation period.
 
@@ -8,7 +10,7 @@ To make the problem more concrete, suppose that you are designing a chicken egg 
 
 **Topics**
 
-There are 12 lessons to help you with the objective of designing the temperature control for the incubator.
+There are 12 lessons to help you with the objective of designing the temperature control for the incubator. The first thing that you will need is to [install Anaconda](https://github.com/APMonitor/begin_python/blob/master/00.%20Introduction.ipynb) to open and run the IPython notebook files in Jupyter. Any Python distribution or Integrated Development Environment (IDE) can be used (IDLE (python.org), Spyder, PyCharm, and others) but Jupyter notebook is required to open and run the IPython notebook (`.ipynb`) files. All of the IPython notebook (`.ipynb`) files can be [downloaded at this link](https://github.com/APMonitor/begin_python/archive/master.zip). Don't forget to unzip the folder (extract the archive) and copy it to a convenient location before starting.
 
 1. [Overview](https://github.com/APMonitor/begin_python/blob/master/01.%20Overview.ipynb)
 2. [Debugging](https://github.com/APMonitor/begin_python/blob/master/02.%20Debugging.ipynb)
@@ -31,7 +33,7 @@ You will need a [TCLab kit](https://apmonitor.com/heat.htm) to complete the exer
 
 **Install Python**
 
-The first step is to [download and install Anaconda to use Jupyter](https://docs.anaconda.com/anaconda/install/) or [watch a video on how to install Anaconda](https://youtu.be/LrMOrMb8-3s).
+[Download and install Anaconda to use Jupyter](https://docs.anaconda.com/anaconda/install/) or [watch a video on how to install Anaconda](https://youtu.be/LrMOrMb8-3s).
 
 [![Install Anaconda](http://img.youtube.com/vi/LrMOrMb8-3s/0.jpg)](https://www.youtube.com/watch?v=LrMOrMb8-3s "Install Anaconda")
 
