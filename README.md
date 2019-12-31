@@ -4,7 +4,7 @@ Welcome to this introductory course on Python! This course is intended to help y
 
 One of the best ways to start or review a programming language is to work on a simple project. These exercises are designed to teach basic Python programming skills to help you design a temperature controller. Temperature control is found in many applications such as home or office HVAC, manufacturing processes, transportation, and life sciences. Even our bodies regulate temperature to a specific set point. This project is to regulate the temperature of the TCLab. Each TCLab has thermochromic (changes color with temperature) paint that turns from black to purple when the temperature reaches the target temperature of 37°C (99°F).
 
-**Objective**: Program the TCLab to maintain the temperature at 37°C. Display the heater level with an LED indicator as the program is adjusting the temperature. Create a plot of the temperature and heater values over a 10 minute evaluation period.
+**[Final Project](https://github.com/APMonitor/begin_python/blob/master/XX.%20Final%20Project.ipynb) Objective**: Program the TCLab to maintain the temperature at 37°C. Display the heater level with an LED indicator as the program is adjusting the temperature. Create a plot of the temperature and heater values over a 10 minute evaluation period.
 
 To make the problem more concrete, suppose that you are designing a chicken egg incubator. Temperature, humidity, and egg rotation are all important to help the chicks develop. For this exercise, you will only focus on temperature control by adjusting the heater.
 
