@@ -31,7 +31,7 @@ There are 12 lessons to help you with the objective of designing the temperature
 
 You will need a [TCLab kit](https://apmonitor.com/heat.htm) to complete the exercises and they are available for [purchase on Amazon](https://www.amazon.com/TCLab-Temperature-Control-Lab/dp/B07GMFWMRY). 
 
-![Temperature Control Lab](http://apmonitor.com/pdc/uploads/Main/tclab_front.jpg "TCLab")
+![Temperature Control Lab](http://apmonitor.com/pdc/uploads/Main/tclab_connect.png "TCLab")
 
 **Install Python**
 
