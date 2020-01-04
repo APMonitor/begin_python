@@ -1,4 +1,4 @@
-### Begin Python with the TCLab
+### Begin Python 🐍 with the TCLab
 
 Welcome to this introductory course on Python! This course is intended to help you start programming in Python from little or no prior experience. There are video tutorials for each exercise if you have questions along the way. One of the unique things about this course is that you work on basic elements to help you with a temperature control project. You will see your Python code have a real effect by adjusting heaters to maintain a target temperature, just like a thermostat in a home or office.
 
