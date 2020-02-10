@@ -2,7 +2,7 @@
 
 Welcome to this introductory course on Python! This course is intended to help you start programming in Python from little or no prior experience. There are video tutorials for each exercise if you have questions along the way. One of the unique things about this course is that you work on basic elements to help you with a temperature control project. You will see your Python code have a real effect by adjusting heaters to maintain a target temperature, just like a thermostat in a home or office.
 
-[![Begin Python](http://img.youtube.com/vi/EO_YpBs8cs0/0.jpg)](https://www.youtube.com/watch?v=EO_YpBs8cs0 "Begin Python")
+[![Begin Python](https://img.youtube.com/vi/EO_YpBs8cs0/0.jpg)](https://www.youtube.com/watch?v=EO_YpBs8cs0 "Begin Python")
 
 One of the best ways to start or review a programming language is to work on a simple project. These exercises are designed to teach basic Python programming skills to help you design a temperature controller. Temperature control is found in many applications such as home or office HVAC, manufacturing processes, transportation, and life sciences. Even our bodies regulate temperature to a specific set point. This project is to regulate the temperature of the TCLab. Each TCLab has thermochromic (changes color with temperature) paint that turns from black to purple when the temperature reaches the target temperature of 37°C (99°F).
 
@@ -31,13 +31,13 @@ There are 12 lessons to help you with the objective of designing the temperature
 
 You will need a [TCLab kit](https://apmonitor.com/heat.htm) to complete the exercises and they are available for [purchase on Amazon](https://www.amazon.com/TCLab-Temperature-Control-Lab/dp/B07GMFWMRY). 
 
-![Temperature Control Lab](http://apmonitor.com/pdc/uploads/Main/tclab_connect.png "TCLab")
+![Temperature Control Lab](https://apmonitor.com/pdc/uploads/Main/tclab_connect.png "TCLab")
 
 **Install Python**
 
 [Download and install Anaconda to use Jupyter](https://docs.anaconda.com/anaconda/install/) or [watch a video on how to install Anaconda](https://youtu.be/LrMOrMb8-3s).
 
-[![Install Anaconda](http://img.youtube.com/vi/LrMOrMb8-3s/0.jpg)](https://www.youtube.com/watch?v=LrMOrMb8-3s "Install Anaconda")
+[![Install Anaconda](https://img.youtube.com/vi/LrMOrMb8-3s/0.jpg)](https://www.youtube.com/watch?v=LrMOrMb8-3s "Install Anaconda")
 
 There are additional instructions on how to [install Python and manage modules](https://apmonitor.com/pdc/index.php/Main/InstallPython).
 
@@ -47,6 +47,6 @@ We would love to hear any feedback or problems you would like to send us! We are
 
 **Additional Resources**
 
-- [Temperature Control Lab (TCLab) Kit](http://apmonitor.com/pdc/index.php/Main/ArduinoTemperatureControl)
+- [Temperature Control Lab (TCLab) Kit](https://apmonitor.com/pdc/index.php/Main/ArduinoTemperatureControl)
 - [Engineering Programming Course](https://apmonitor.com/pdc) with [Source Code](https://github.com/APMonitor/learn_python)
 - [Jupyter as interactive environment for Python, Julia, R](https://jupyter.org/)
