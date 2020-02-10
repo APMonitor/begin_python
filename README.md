@@ -2,7 +2,7 @@
 
 Welcome to this introductory course on Python! This course is intended to help you start programming in Python from little or no prior experience. There are video tutorials for each exercise if you have questions along the way. One of the unique things about this course is that you work on basic elements to help you with a temperature control project. You will see your Python code have a real effect by adjusting heaters to maintain a target temperature, just like a thermostat in a home or office.
 
-[![Begin Python](https://img.youtube.com/vi/EO_YpBs8cs0/0.jpg)](https://www.youtube.com/watch?v=EO_YpBs8cs0 "Begin Python")
+[![Begin Python](https://apmonitor.com/che263/uploads/Begin_Python/BeginPython00.jpg)](https://www.youtube.com/watch?v=EO_YpBs8cs0 "Begin Python")
 
 One of the best ways to start or review a programming language is to work on a simple project. These exercises are designed to teach basic Python programming skills to help you design a temperature controller. Temperature control is found in many applications such as home or office HVAC, manufacturing processes, transportation, and life sciences. Even our bodies regulate temperature to a specific set point. This project is to regulate the temperature of the TCLab. Each TCLab has thermochromic (changes color with temperature) paint that turns from black to purple when the temperature reaches the target temperature of 37°C (99°F).
 
